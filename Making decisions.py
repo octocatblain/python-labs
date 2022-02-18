@@ -9,5 +9,3 @@ elif a == B:
 else: 
     print("Spathiphyllum! Not {}!".format(a))
     print("Spathiphyllum! Not ", a,"!", sep="")
-    
-    
